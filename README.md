@@ -1,5 +1,11 @@
 # Cricklytics-IPL-Winner-Predictor
 
+https://github.com/harshi1707/Cricklytics-IPL-Winner-Predictor/issues/1
+
+https://github.com/harshi1707/Cricklytics-IPL-Winner-Predictor/issues/2
+
+https://github.com/harshi1707/Cricklytics-IPL-Winner-Predictor/issues/3
+
 
 
 
