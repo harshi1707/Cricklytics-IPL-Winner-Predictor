@@ -1,11 +1,10 @@
 # Cricklytics-IPL-Winner-Predictor
 
-![IPL Predictor Website](images/ipl_website.png)
-
-![IPL Predictor Loss](images/ipl_loss.png)
-
-![IPL Predictor Win](images/ipl_win.png)
-
+<p float="left">
+  <img src="images/ipl_site.png" width="250" />
+  <img src="images/ipl_loss.png" width="250" />
+  <img src="images/ipl_win.png" width="250" />
+</p>
 
 
 
