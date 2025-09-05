@@ -9,7 +9,7 @@
 
 
 ## About This Project
-The "IPL Win Predictor" leverages logistic regression to provide insights into the probability of a team winning an IPL match. This model analyzes various match features, team performance, and player statistics to offer real-time predictions.
+The "IPL Win Predictor" XGBoost with hyperparameters to provide insights into the probability of a team winning an IPL match. This model analyzes various match features, team performance, and player statistics to offer real-time predictions.
 
 ### Features
 
@@ -41,7 +41,7 @@ The predictor will calculate the probability of the batting team winning based o
 This project leverages the following technologies:
 
 - [Python](https://www.python.org/)
-- [Logistic Regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
+- [XGBoost]([https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html](https://xgboost.readthedocs.io/en/stable/python/sklearn_estimator.html))
 - [NumPy](https://numpy.org/)
 - [pandas](https://pandas.pydata.org/)
 - [Streamlit](https://www.streamlit.io/)
