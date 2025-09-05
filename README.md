@@ -1,7 +1,7 @@
 # Cricklytics-IPL-Winner-Predictor
 
 <p align="center">
-  <img src="images/ipl_site.png" alt="IPL Site" width="270" style="margin-right:30px;"/>
+  <img src="images/ipl_website.png" alt="IPL Site" width="270" style="margin-right:30px;"/>
   <img src="images/ipl_loss.png" alt="IPL Loss" width="270" style="margin-right:30px;"/>
   <img src="images/ipl_win.png" alt="IPL Win" width="270"/>
 </p>
