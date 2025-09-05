@@ -1,10 +1,10 @@
 # Cricklytics-IPL-Winner-Predictor
 
-https://github.com/harshi1707/Cricklytics-IPL-Winner-Predictor/issues/1
+![IPL Predictor Website](https://github.com/harshi1707/Cricklytics-IPL-Winner-Predictor/issues/1)
 
-https://github.com/harshi1707/Cricklytics-IPL-Winner-Predictor/issues/2
+![IPL Predictor Loss](https://github.com/harshi1707/Cricklytics-IPL-Winner-Predictor/issues/2)
 
-https://github.com/harshi1707/Cricklytics-IPL-Winner-Predictor/issues/3
+![IPL Predictor Win](https://github.com/harshi1707/Cricklytics-IPL-Winner-Predictor/issues/3)
 
 
 
